@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207612705658",
+    "firebase_url": "https://pwa-test-2d34f.firebaseio.com",
+    "project_id": "pwa-test-2d34f",
+    "storage_bucket": "pwa-test-2d34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207612705658:android:ccdbe70c056fd1f9eef4c3",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207612705658-4j5d1df1f9p03ih0mtkp6jri46uq4k1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuOOBAeH9qa8JMid9dAlbpXahxJ_bhFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207612705658-4j5d1df1f9p03ih0mtkp6jri46uq4k1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
